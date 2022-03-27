@@ -1,0 +1,7 @@
+
+          [console_scripts]
+          kajiki = kajiki.__main__:main
+
+          [babel.extractors]
+          kajiki = kajiki.i18n:extract
+      

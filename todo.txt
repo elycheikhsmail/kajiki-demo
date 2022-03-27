@@ -1,0 +1,8 @@
+creer virtual env
+test kijiki template engine
+extends
+
+details.py
+details.json
+details.html
+??
